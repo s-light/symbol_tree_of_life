@@ -49,11 +49,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.7132043"
-     inkscape:cx="178.33057"
-     inkscape:cy="272.35519"
+     inkscape:zoom="1.8566022"
+     inkscape:cx="109.7704"
+     inkscape:cy="189.71238"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1015"
@@ -170,42 +170,18 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="inspiration"
-     sodipodi:insensitive="true"
-     style="display:none">
-    <g
-       inkscape:groupmode="layer"
-       id="layer10"
-       inkscape:label="inspiration_6"
-       sodipodi:insensitive="true"
-       style="display:inline;opacity:0.3">
-      <image
-         sodipodi:absref="/home/stefan/mydata/projects/20170813_MagierCharacter/amulet/symbol_tree_of_life/../inspirations/tree_of_life_buckle_by_cloud_dragonz-d38p91y.jpg"
-         xlink:href="../inspirations/tree_of_life_buckle_by_cloud_dragonz-d38p91y.jpg"
-         y="-14.306666"
-         x="-48.328033"
-         id="image3975"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="127.72069"
-         width="198.77274" />
-    </g>
-    <g
-       inkscape:groupmode="layer"
-       id="layer5"
-       inkscape:label="inspiration_1"
-       style="display:none;opacity:1"
-       sodipodi:insensitive="true">
-      <image
-         sodipodi:absref="/home/stefan/mydata/vision/pictures/TEMP/20180908__02_Hofheim_project_Amulet_BaumDesLebens/P1680774_crop.jpg"
-         y="-17.954874"
-         x="-16.525171"
-         id="image1337"
-         xlink:href="file:///home/stefan/mydata/vision/pictures/TEMP/20180908__02_Hofheim_project_Amulet_BaumDesLebens/P1680774_crop.jpg"
-         style="image-rendering:optimizeQuality"
-         preserveAspectRatio="none"
-         height="131.992"
-         width="131.992" />
-    </g>
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/stefan/mydata/vision/pictures/TEMP/20180908__02_Hofheim_project_Amulet_BaumDesLebens/P1680774_crop.jpg"
+       y="-17.954874"
+       x="-16.525171"
+       id="image1337"
+       xlink:href="file:///home/stefan/mydata/vision/pictures/TEMP/20180908__02_Hofheim_project_Amulet_BaumDesLebens/P1680774_crop.jpg"
+       style="display:inline;opacity:1;image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="131.992"
+       width="131.992" />
   </g>
   <g
      inkscape:label="base_circle"
@@ -274,7 +250,7 @@
        inkscape:groupmode="layer"
        id="layer6"
        inkscape:label="layer_front"
-       style="display:none;opacity:1"
+       style="display:inline;opacity:1"
        sodipodi:insensitive="true">
       <g
          inkscape:groupmode="layer"
