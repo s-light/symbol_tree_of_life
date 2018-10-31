@@ -6,6 +6,10 @@ tree of live - as vector symbol
 in the [export/](export/) sub directory there are the single layers as separate files.  
 these are perfect for laser-engraving.
 
+# CUTOUT
+this *cutout branch* try's to optimise for cutting -
+we will see what is the result..
+
 ## License
 <!-- License info -->
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
